@@ -6,3 +6,6 @@
 # Suricata
 ## docker run --rm -it --name suricata --net=host --cap-add=net_admin --cap-add=net_raw --cap-add=sys_nice   shawoo/suricata:latest -i bond0
 ## docker exec -it suricata tail -f /var/log/suricata/eve.json
+
+# SELKS
+## https://www.stamus-networks.com/selks#selks
